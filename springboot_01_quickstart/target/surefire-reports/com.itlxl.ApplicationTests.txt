@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.itlxl.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.343 s <<< FAILURE! - in com.itlxl.ApplicationTests
+com.itlxl.ApplicationTests  Time elapsed: 0.341 s  <<< ERROR!
+java.lang.IllegalStateException: Found multiple @SpringBootConfiguration annotated classes [Generic bean: class [com.itlxl.Application]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [D:\code\java\springboot\springboot_01_quickstart\target\classes\com\itlxl\Application.class], Generic bean: class [com.itlxl.Springboot01QuickstartApplication]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [D:\code\java\springboot\springboot_01_quickstart\target\classes\com\itlxl\Springboot01QuickstartApplication.class]]
+

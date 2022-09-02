@@ -1,0 +1,13 @@
+lesson: SpringBoot
+
+server:
+  port: 80
+
+enterprise:
+  name: itlxl
+  age: 16
+  tel: 123456789
+  subject:
+    - Java
+    - 前端
+    - 大数据

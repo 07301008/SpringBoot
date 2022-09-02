@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.itlxl.Springboot01QuickstartApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.646 s - in com.itlxl.Springboot01QuickstartApplicationTests
